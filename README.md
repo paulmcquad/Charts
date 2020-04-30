@@ -1,0 +1,2 @@
+# Bookmarks
+Mozilla Firefox Bookmarks
